@@ -1,23 +1,21 @@
-How to run the Car Rental Project
+# Car Rental Portal Using PHP 8 & MySQL
 
-1. Download and Unzip the file on your local system copy carrental .
-2. Put carrental folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+A complete **Car Rental System** built with **PHP 8**, **MySQL**, **Bootstrap**, and **JavaScript**.
 
-Database Configuration
+---
 
-Open phpmyadmin
-Create Database carrental
-Import database carrental.sql (available SQL File Folder inside zip package)
+## 🔹 Features
+- User registration and login
+- Car listing with availability check
+- Booking system with admin approval
+- Admin dashboard to manage cars, bookings, and users
+- Email notifications for booking confirmation
+- Responsive design for desktop and mobile
 
-For User
-Open Your browser put inside browser “http://localhost/carrental”
+---
 
-**************Login Details for user****************************
-Username : test@gmail.com
-Password: Test@123
+## 🔹 Installation
 
-**************For Admin Panel***********************************
-Open Your browser put inside browser “http://localhost/carrental/admin”
-Login Details for admin :
-Username: admin
-Password: 123456
+1. Clone the repository:
+```bash
+git clone https://github.com/Dev-RiponHossain/Car-Rental-Portal-Using-PHP-and-Mysql.git
